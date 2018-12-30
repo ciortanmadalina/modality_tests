@@ -1,4 +1,4 @@
-# Unimodality tests and Kernel density estimations
+# Modality tests and Kernel density estimations
 
 When processing a large number of datasets which can potentially have different data distributions, we are confronted with the following considerations:
 - Is the data distribution unimodal and if it is the case, which model best approximates it( uniform distribution, T-distribution, chi-square distribution, cauchy distribution, etc)?
