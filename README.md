@@ -14,3 +14,5 @@ This [notebook](https://github.com/ciortanmadalina/modality_tests/blob/master/ke
 - Statistical tests for unimodal distributions
 - DIP test for unimodality
 - Identification of the number of modes of a data distribution based on the kernel density estimation
+
+Find the complete Medium post [here](https://medium.com/@ciortanmadalina/modality-tests-and-kernel-density-estimations-3f349bb9e595)
