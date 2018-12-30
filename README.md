@@ -6,7 +6,7 @@ When processing a large number of datasets which can potentially have different 
 - How can we estimate the probability density function of a new dataset?
 
 
-This [notebook](https://pypi.org/project/wpca/) tackles the following subjects:
+This [notebook](https://github.com/ciortanmadalina/modality_tests/blob/master/kernel_density.ipynb) tackles the following subjects:
 
 - Histograms vs probability density function approximation
 - Kernel density estimations
