@@ -4,7 +4,7 @@ import pandas as pd
 
 
 
-def getInflexionPoints(data, typeOfInflexion = None, maxPoints = None):
+def getExtremePoints(data, typeOfInflexion = None, maxPoints = None):
     """
     This method returns the indeces where there is a change in the trend of the input series.
     typeOfInflexion = None returns all inflexion points, max only maximum values and min
